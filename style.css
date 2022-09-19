@@ -3,11 +3,12 @@ body {
   margin: 0px;
   border: 0px;
   width: 100vw;
+  min-heightL 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: #1c1c1c;
-  justify-content: center;
+  justify-content: space-evenly;
   color: white;
 }
 header {
